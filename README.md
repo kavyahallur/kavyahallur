@@ -6,7 +6,7 @@ Embedded Systems | Firmware | Hardware-Software Integration
 ---
 
 ## About Me
-I design and build embedded systems involving microcontrollers, real-time firmware, and sensor integration. My experience spans PCB bring-up, firmware development, and debugging using lab instrumentation. I enjoy building end-to-end systems from hardware prototyping to firmware validation.
+I design and develop embedded systems integrating microcontrollers, real-time firmware, and sensor interfaces. My work covers the full development lifecycle, including PCB bring-up, hardware-software integration, and low-level debugging using industry-standard lab tools. I focus on building robust, end-to-end systems—from initial hardware prototyping to firmware optimization and validation—ensuring performance, reliability, and scalability in real-world applications.
 
 ---
 
