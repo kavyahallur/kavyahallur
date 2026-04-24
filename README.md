@@ -1,7 +1,7 @@
 # Hi, I'm Kavya 👋
 
 M.S. Computer Engineering @ NJIT  
-🔧 Embedded Systems | Firmware | Hardware-Software Integration  
+Embedded Systems | Firmware | Hardware-Software Integration  
 
 ---
 
@@ -11,13 +11,13 @@ I design and build embedded systems involving microcontrollers, real-time firmwa
 ---
 
 ## Projects
-- 🔹 [Voice-Controlled Automatic Vacuum Cleaner](https://github.com/kavyahallur/voice-controlled-vacuum-cleaner-firmware)  
+- [Voice-Controlled Automatic Vacuum Cleaner](https://github.com/kavyahallur/voice-controlled-vacuum-cleaner-firmware)  
   ATmega328 | UART | Bluetooth | Real-Time Control  
 
-- 🔹 [RFID-Based Goal Line Technology](https://github.com/kavyahallur/RFID-Based-Goal-Line-Technology)  
+- [RFID-Based Goal Line Technology](https://github.com/kavyahallur/RFID-Based-Goal-Line-Technology)  
   Arduino | RFID | Real-Time Detection  
 
-- 🔹 Air Mouse using MPU6050 & FreeRTOS  
+- Air Mouse using MPU6050 & FreeRTOS  
   STM32 | I2C | RTOS | Motion Processing  
 
 ---
